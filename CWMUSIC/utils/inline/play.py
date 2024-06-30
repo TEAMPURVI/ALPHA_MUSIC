@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="𝖮ᴡɴᴇʀ 🥀", url="https://t.me/UR_ALPHA_BABY",
+                text="𝖮ᴡɴᴇʀ 🥀", url="https://t.me/@ll_ALPHA_BABY_lll",
             ),
             InlineKeyboardButton(
                 text="𝖲ᴜᴘᴘᴏʀᴛ 🥀", url="https://t.me/PURVI_UPDATES",
@@ -91,10 +91,10 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/AbOuTInNoCeNt",
+                text="𝖮𝗐𝗇𝖾𝗋🥀", url="https://t.me/@ll_ALPHA_BABY_lll",
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/TheAvengerSociety",
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍🥀", url="https://t.me/WORLD_ALPHA",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
