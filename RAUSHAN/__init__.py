@@ -4,6 +4,7 @@ from RAUSHAN.core.git import git
 from RAUSHAN.core.userbot import Userbot
 from RAUSHAN.misc import dbb, heroku
 
+from SafoneAPI import SafoneAPI
 from .logging import LOGGER
 
 dirr()
@@ -12,6 +13,7 @@ dbb()
 heroku()
 
 app = Anony()
+api = SafoneAPI()
 userbot = Userbot()
 
 
@@ -25,4 +27,3 @@ Resso = RessoAPI()
 Telegram = TeleAPI()
 YouTube = YouTubeAPI()
 YTB = YTM()
-
