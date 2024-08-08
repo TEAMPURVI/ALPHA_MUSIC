@@ -13,7 +13,6 @@ dbb()
 heroku()
 
 app = Anony()
-api = SafoneAPI()
 userbot = Userbot()
 
 
