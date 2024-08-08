@@ -4,7 +4,6 @@ from RAUSHAN.core.git import git
 from RAUSHAN.core.userbot import Userbot
 from RAUSHAN.misc import dbb, heroku
 
-from SafoneAPI import SafoneAPI
 from .logging import LOGGER
 
 dirr()
