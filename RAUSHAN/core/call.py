@@ -17,7 +17,7 @@ from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQuality
 from pytgcalls.types.stream import StreamAudioEnded
 
 import config
-from RAUSHAN import LOGGER, YouTube, app, YTB
+from RAUSHAN import LOGGER, YouTube, app, YTM
 from RAUSHAN.misc import db
 from RAUSHAN.utils.database import (
     add_active_chat,
