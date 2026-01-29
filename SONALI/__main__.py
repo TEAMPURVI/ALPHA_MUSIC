@@ -55,7 +55,7 @@ async def init():
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("SONALI").info("Stopping DEEP Music Bot...")
+    LOGGER("SONALI").info("Stopping Music Bot...")
 
 
 if __name__ == "__main__":
